@@ -6,21 +6,22 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
-    <EditText
+    <TextView
         android:id="@+id/input_name"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:text="Hello World!"
+        android:textSize="14sp"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <Button
-        style="@style/Widget.Material3.Button.OutlinedButton"
+    <com.google.android.material.button.MaterialButton
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/label_action_save"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@id/input_name" />
+
 
 </androidx.constraintlayout.widget.ConstraintLayout>

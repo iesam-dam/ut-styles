@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="spacing_vertical">12dp</dimen>
+    <dimen name="spacing_horizontal">16dp</dimen>
+    <dimen name="size_height_image_card">150dp</dimen>
+
+
+    <!-- Fonts -->
+    <dimen name="small">14sp</dimen>
+    <dimen name="medium">16sp</dimen>
+    <dimen name="high">18sp</dimen>
+</resources>

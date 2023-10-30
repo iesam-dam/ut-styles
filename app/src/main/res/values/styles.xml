@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="AppFillButton" parent="Widget.Material3.Button.TextButton">
+
+    </style>
+
+    <style name="AppMainToolbar" parent="Widget.Material3.Toolbar">
+
+    </style>
+
+    <style name="AppMainCardView" parent="Widget.Material3.CardView.Elevated">
+
+    </style>
+
+    <style name="AppTitleCard" parent="TextAppearance.Material3.HeadlineSmall">
+
+    </style>
+
+    <style name="AppBodyCard" parent="TextAppearance.Material3.BodyLarge">
+
+    </style>
+
+</resources>
